@@ -1,0 +1,3 @@
+C:/Users/Walee/bj-assignment-3/cmake-build-debug/CMakeFiles/bj_assignment_3.dir
+C:/Users/Walee/bj-assignment-3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Walee/bj-assignment-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
